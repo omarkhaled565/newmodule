@@ -1,0 +1,11 @@
+.Footer{
+    font-weight: 400;
+    font-size: 50px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom:-380px; /* Position the footer at the bottom of the containing element (body) */
+    width: 100%;
+}
